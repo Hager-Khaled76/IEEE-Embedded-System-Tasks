@@ -13,8 +13,9 @@
  {
     int num=10;
 	int position = 2;
-	printf(" the number before toggle %d",num);
-	printf(" the number after toggle %d",toggleBit(num,position));
+	printf(" the number before toggle %d \n",num);
+	printf(" the number after toggle %d \n ",toggleBit(num,position));
     return 0;
  
+
  }
